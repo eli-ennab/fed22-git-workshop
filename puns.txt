@@ -1,10 +1,7 @@
 Boss: How good are you at PowerPoint?
 Me: I Excel at it.
-<<<<<<< HEAD
 Boss: Was that a pun?
 Me: Word.
 Boss: You have a bright Outlook.
-=======
 Boss: Was that a Microsoft Office pun?
 Me: Word.
->>>>>>> main
